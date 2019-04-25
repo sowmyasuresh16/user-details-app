@@ -1,6 +1,8 @@
 # UserDetailsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.2.
+This app makes use of the https://jsonplaceholder.typicode.com/ API to display user details. 
+Angular animations v6.0 incorporated in the user component. 
 
 ## Development server
 
